@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\연결 리스트">
+      <UniqueIdentifier>{939b480c-2016-46b6-b890-134e21ffabb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\스택의 활용%28수식의 괄호 쌍%29">
+      <UniqueIdentifier>{4122bec7-9c67-489a-aafc-f99bbfedcc72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BFS">
+      <UniqueIdentifier>{9e33fbb9-93b7-4bfd-b30d-cc7aa9eae37a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\재귀함수">
+      <UniqueIdentifier>{1064b297-2dc8-460d-96dd-982b2564b8e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\재귀함수\별찍기">
+      <UniqueIdentifier>{6f7bdc91-7858-4a80-8772-d9a3dbd91652}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\재귀함수\백트래킹">
+      <UniqueIdentifier>{b4953926-ddc8-4e27-a91b-99b0d2487e5e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="계획.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="야매연결 리스트.cpp">
+      <Filter>소스 파일\연결 리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="1406_에디터%28연결리스트_STL%29.cpp">
+      <Filter>소스 파일\연결 리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="1406_에디터(야매연결 리스트).cpp">
+      <Filter>소스 파일\연결 리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="5397_키로거 (STL).cpp">
+      <Filter>소스 파일\연결 리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="1158 요세푸스 문제 %28STL%29미완.cpp">
+      <Filter>소스 파일\연결 리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="10799_쇠막대기.cpp">
+      <Filter>소스 파일\스택의 활용%28수식의 괄호 쌍%29</Filter>
+    </ClCompile>
+    <ClCompile Include="1697_숨바꼭질.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="27433_팩토리얼2.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="25501_재귀의 귀재.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="7569_토마토.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2438_별찍기-1.cpp">
+      <Filter>소스 파일\재귀함수\별찍기</Filter>
+    </ClCompile>
+    <ClCompile Include="2439_별찍기-2.cpp">
+      <Filter>소스 파일\재귀함수\별찍기</Filter>
+    </ClCompile>
+    <ClCompile Include="2440_별찍기-3.cpp">
+      <Filter>소스 파일\재귀함수\별찍기</Filter>
+    </ClCompile>
+    <ClCompile Include="2441_별찍기-4.cpp">
+      <Filter>소스 파일\재귀함수\별찍기</Filter>
+    </ClCompile>
+    <ClCompile Include="2442_별찍기-5.cpp">
+      <Filter>소스 파일\재귀함수\별찍기</Filter>
+    </ClCompile>
+    <ClCompile Include="2443_별찍기-6.cpp">
+      <Filter>소스 파일\재귀함수\별찍기</Filter>
+    </ClCompile>
+    <ClCompile Include="2444_별찍기-7.cpp">
+      <Filter>소스 파일\재귀함수\별찍기</Filter>
+    </ClCompile>
+    <ClCompile Include="2445_별찍기-8.cpp">
+      <Filter>소스 파일\재귀함수\별찍기</Filter>
+    </ClCompile>
+    <ClCompile Include="2446_별찍기-9.cpp">
+      <Filter>소스 파일\재귀함수\별찍기</Filter>
+    </ClCompile>
+    <ClCompile Include="%28유심히 다시 봐보자!%292447_별찍기-10.cpp">
+      <Filter>소스 파일\재귀함수\별찍기</Filter>
+    </ClCompile>
+    <ClCompile Include="2448_별찍기-11.cpp">
+      <Filter>소스 파일\재귀함수\별찍기</Filter>
+    </ClCompile>
+    <ClCompile Include="2522_별찍기-12.cpp">
+      <Filter>소스 파일\재귀함수\별찍기</Filter>
+    </ClCompile>
+    <ClCompile Include="2523_별찍기-13.cpp">
+      <Filter>소스 파일\재귀함수\별찍기</Filter>
+    </ClCompile>
+    <ClCompile Include="7562_나이트의 이동.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2583_영역 구하기.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2667_단지번호붙이기.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="10093_숫자.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6593_상범 빌딩.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2468_안전 영역.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2752＿세수정렬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28재확인 필요%299466_텀 프로젝트.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="5427_불.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="5427_불!.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="15649_N과M_%281%29.cpp">
+      <Filter>소스 파일\재귀함수\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="9663_N-Queen.cpp">
+      <Filter>소스 파일\재귀함수\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="2573_빙산.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1182_부분수열의 합.cpp">
+      <Filter>소스 파일\재귀함수\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="15650_N과M_(2).cpp">
+      <Filter>소스 파일\재귀함수\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="15651_N과M_(3).cpp">
+      <Filter>소스 파일\재귀함수\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미완성%292146_다리 만들기.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미완성%292606_바이러스.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="10870_피보나치 수 5.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="4779_칸토어 집합.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="%28다시 해보자%293197_백조의 호수.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2206_벽 부수고 이동하기.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2638_치즈.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="12789_도키도키 간식드리미.cpp">
+      <Filter>소스 파일\스택의 활용%28수식의 괄호 쌍%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13458_시험 감독.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
